@@ -1,4 +1,4 @@
-# NEDT LEVEL WEEK - Rocketseat
+# NEXT LEVEL WEEK - Rocketseat
 ## Inteligência artificial
 
 Neste repositório se encontra o código mostrado em aula. Nesta edião da Next Level Week, realizada em julho de 2024, foi feito uma API utilizando Python, Langchain e ChatGPT. Também foi mostrado o deploy na  Amazon AWS
